@@ -1,0 +1,205 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xvzxqKWltnj6qSiWBXRq6ZCdcrw.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 1151534,
+            "original_language": "es",
+            "original_title": "Nowhere",
+            "overview": "A young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to the child while lost at sea, where she must fight to survive.",
+            "popularity": 2126.208,
+            "poster_path": "/uldNFFKNXNvwss0MIZErMSFkBJZ.jpg",
+            "release_date": "2023-09-29",
+            "title": "Nowhere",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 499
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8pjWz2lt29KyVGoq1mXYu6Br7dE.jpg",
+            "genre_ids": [
+                28,
+                878,
+                27
+            ],
+            "id": 615656,
+            "original_language": "en",
+            "original_title": "Meg 2: The Trench",
+            "overview": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+            "popularity": 1105.853,
+            "poster_path": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+            "release_date": "2023-08-02",
+            "title": "Meg 2: The Trench",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 2192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 385687,
+            "original_language": "en",
+            "original_title": "Fast X",
+            "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+            "popularity": 943.597,
+            "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+            "release_date": "2023-05-17",
+            "title": "Fast X",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3970
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/efro4duB7agkA2Xl5LmkD3HeCim.jpg",
+            "genre_ids": [
+                28,
+                53,
+                18
+            ],
+            "id": 818511,
+            "original_language": "pt",
+            "original_title": "Carga Máxima",
+            "overview": "When truck racer Roger loses everything, he receives a tempting but dangerous offer: to work as the getaway driver for a gang of thieves.",
+            "popularity": 912.56,
+            "poster_path": "/6yx14lSACNJ2zRoYyXqecf3QNgr.jpg",
+            "release_date": "2023-09-27",
+            "title": "Overhaul",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mzlZAMjE2yk2sW3f9HTeBM3B3jw.jpg",
+            "genre_ids": [
+                14,
+                35
+            ],
+            "id": 616747,
+            "original_language": "en",
+            "original_title": "Haunted Mansion",
+            "overview": "A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.",
+            "popularity": 782.023,
+            "poster_path": "/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg",
+            "release_date": "2023-07-26",
+            "title": "Haunted Mansion",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 386
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7VEUOEfRzzrQfWddlIyLUKvh6Nf.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                10749
+            ],
+            "id": 447277,
+            "original_language": "en",
+            "original_title": "The Little Mermaid",
+            "overview": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
+            "popularity": 326.969,
+            "poster_path": "/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+            "release_date": "2023-05-18",
+            "title": "The Little Mermaid",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2201
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xyWKrni8WrYzqn7ztvI5nIY0h62.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 1181678,
+            "original_language": "es",
+            "original_title": "¿Quieres ser mi hijo?",
+            "overview": "Lu, a conformist woman in her forties, learns that her 15-year partner has been having extramarital affairs. Starting from scratch, she gets involved in an unexpected relationship with a young womanizer.",
+            "popularity": 308.449,
+            "poster_path": "/6cZbQppNSELFdsV7gvrOflL6DWK.jpg",
+            "release_date": "2023-09-21",
+            "title": "¿Quieres ser mi hijo?",
+            "video": false,
+            "vote_average": 8.9,
+            "vote_count": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 447365,
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy Vol. 3",
+            "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+            "popularity": 296.825,
+            "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+            "release_date": "2023-05-03",
+            "title": "Guardians of the Galaxy Vol. 3",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 5021
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lntyt4OVDbcxA1l7LtwITbrD3FI.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1010581,
+            "original_language": "es",
+            "original_title": "Culpa mía",
+            "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+            "popularity": 291.46,
+            "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+            "release_date": "2023-06-08",
+            "title": "My Fault",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 1770
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6fKEw0I2FTD5FLOQ5q7L1tqf876.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                28,
+                12
+            ],
+            "id": 790493,
+            "original_language": "en",
+            "original_title": "Spy Kids: Armageddon",
+            "overview": "When the children of the world’s greatest secret agents unwittingly help a powerful game developer unleash a computer virus that gives him control of all technology, they must become spies themselves to save their parents and the world.",
+            "popularity": 285.499,
+            "poster_path": "/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg",
+            "release_date": "2023-09-22",
+            "title": "Spy Kids: Armageddon",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 69
+        }
+    ],
+    "total_pages": 2908,
+    "total_results": 58157
+}

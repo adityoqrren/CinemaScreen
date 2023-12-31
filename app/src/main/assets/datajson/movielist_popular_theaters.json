@@ -1,0 +1,208 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/cHNqobjzfLj88lpIYqkZpecwQEC.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 926393,
+            "original_language": "en",
+            "original_title": "The Equalizer 3",
+            "overview": "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+            "popularity": 3197.13,
+            "poster_path": "/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+            "release_date": "2023-08-30",
+            "title": "The Equalizer 3",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 671
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mRGmNnh6pBAGGp6fMBMwI8iTBUO.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 968051,
+            "original_language": "en",
+            "original_title": "The Nun II",
+            "overview": "In 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.",
+            "popularity": 2591.014,
+            "poster_path": "/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+            "release_date": "2023-09-06",
+            "title": "The Nun II",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 849
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iIvQnZyzgx9TkbrOgcXx0p7aLiq.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1008042,
+            "original_language": "en",
+            "original_title": "Talk to Me",
+            "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+            "popularity": 2629.73,
+            "poster_path": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+            "release_date": "2023-08-23",
+            "title": "Talk to Me",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1235
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r7DuyYJ0N3cD8bRKsR5Ygq2P7oa.jpg",
+            "genre_ids": [
+                12,
+                28,
+                18
+            ],
+            "id": 980489,
+            "original_language": "en",
+            "original_title": "Gran Turismo",
+            "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+            "popularity": 1488.885,
+            "poster_path": "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+            "release_date": "2023-08-23",
+            "title": "Gran Turismo",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 965
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1syW9SNna38rSl9fnXwc9fP7POW.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 565770,
+            "original_language": "en",
+            "original_title": "Blue Beetle",
+            "overview": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+            "popularity": 1249.748,
+            "poster_path": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+            "release_date": "2023-08-16",
+            "title": "Blue Beetle",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 1234
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qEm4FrkGh7kGoEiBOyGYNielYVc.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 635910,
+            "original_language": "en",
+            "original_title": "The Last Voyage of the Demeter",
+            "overview": "The crew of the merchant ship Demeter attempts to survive the ocean voyage from Carpathia to London as they are stalked each night by a merciless presence onboard the ship.",
+            "popularity": 214.462,
+            "poster_path": "/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",
+            "release_date": "2023-08-16",
+            "title": "The Last Voyage of the Demeter",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 768
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zZnsfR6BRqtxyLyAhsi2TMukEBx.jpg",
+            "genre_ids": [
+                16,
+                28,
+                80,
+                9648
+            ],
+            "id": 1047041,
+            "original_language": "ja",
+            "original_title": "名探偵コナン 黒鉄の魚影（サブマリン）",
+            "overview": "The 26th movie entry in the “Detective Conan” franchise.",
+            "popularity": 248.197,
+            "poster_path": "/hKefTFkTFK90xEDchURKPp3S3gN.jpg",
+            "release_date": "2023-07-26",
+            "title": "Detective Conan: Black Iron Submarine",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg",
+            "genre_ids": [
+                12,
+                14,
+                16,
+                35,
+                10751,
+                28
+            ],
+            "id": 315162,
+            "original_language": "en",
+            "original_title": "Puss in Boots: The Last Wish",
+            "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+            "popularity": 235.687,
+            "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+            "release_date": "2022-12-28",
+            "title": "Puss in Boots: The Last Wish",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 6441
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hPcP1kv6vrkRmQO3YgV1H97FE5Q.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 614479,
+            "original_language": "en",
+            "original_title": "Insidious: The Red Door",
+            "overview": "To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.",
+            "popularity": 251.363,
+            "poster_path": "/d07phJqCx6z5wILDYqkyraorDPi.jpg",
+            "release_date": "2023-07-12",
+            "title": "Insidious: The Red Door",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1195
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hiHGRbyTcbZoLsYYkO4QiCLYe34.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 758323,
+            "original_language": "en",
+            "original_title": "The Pope's Exorcist",
+            "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+            "popularity": 214.69,
+            "poster_path": "/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg",
+            "release_date": "2023-04-07",
+            "title": "The Pope's Exorcist",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 2009
+        }
+    ],
+    "total_pages": 201,
+    "total_results": 4013
+}

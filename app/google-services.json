@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900720095299",
+    "project_id": "cinemascreen-d7394",
+    "storage_bucket": "cinemascreen-d7394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900720095299:android:63660f9e868864962f64f6",
+        "android_client_info": {
+          "package_name": "com.myapp.cinemascreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUtvlyA3r7m-AJJBQQq8nV70l9eqqZaXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

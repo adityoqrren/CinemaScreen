@@ -1,0 +1,210 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/oJxLvh3ku9Ad8Axpm73DL45o1hw.jpg",
+            "first_air_date": "2010-10-10",
+            "genre_ids": [
+                16,
+                35,
+                10765,
+                10762
+            ],
+            "id": 33765,
+            "name": "My Little Pony: Friendship Is Magic",
+            "origin_country": [
+                "CA",
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "My Little Pony: Friendship Is Magic",
+            "overview": "\"Get your muzzle out of those books and make some friends!\" That's what Princess Celestia tells Twilight Sparkle. She may be the smartest unicorn in Equestria, but Twilight Sparkle gets an \"incomplete\" in friendship. There's more to life than learning magic, after all -- so she goes to Ponyville on a mission to make friends. There she meets five special ponies who take her on exciting adventures and teach her the most powerful magic of all ... the magic of friendship!",
+            "popularity": 239.138,
+            "poster_path": "/fwW7WgJIjhBsnzk87Gyh6g9187m.jpg",
+            "vote_average": 8.1,
+            "vote_count": 559
+        },
+        {
+            "backdrop_path": "/evJaCkNlgUt55dcOaAJqxD90FWs.jpg",
+            "first_air_date": "2013-09-23",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 49011,
+            "name": "Mom",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Mom",
+            "overview": "Aan irreverent and outrageous take on true family love‐and dysfunction. Newly sober single mom Christy struggles to raise two children in a world full of temptations and pitfalls. Testing her sobriety is her formerly estranged mother, now back in Christy's life and eager to share passive-aggressive insights into her daughter's many mistakes.",
+            "popularity": 121.852,
+            "poster_path": "/kIi3T7X0kmiV9vGDme146P2d979.jpg",
+            "vote_average": 7.3,
+            "vote_count": 514
+        },
+        {
+            "backdrop_path": "/68khUZW9a2jaVBP06QKw40CyM2S.jpg",
+            "first_air_date": "1959-09-12",
+            "genre_ids": [
+                37,
+                10759
+            ],
+            "id": 1018,
+            "name": "Bonanza",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Bonanza",
+            "overview": "The High-Sierra adventures of Ben Cartwright and his sons as they run and defend their ranch while helping the surrounding community.",
+            "popularity": 97.091,
+            "poster_path": "/y2jYBuTrC62hneBRs92LwxavMoV.jpg",
+            "vote_average": 7.6,
+            "vote_count": 378
+        },
+        {
+            "backdrop_path": "/btUwsz9ttVBVyqtEyZvFBQFyJgv.jpg",
+            "first_air_date": "1987-09-22",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 4313,
+            "name": "Full House",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Full House",
+            "overview": "After the death of his wife, Danny enlists his best friend and his brother-in-law to help raise his three daughters, D.J., Stephanie, and Michelle.",
+            "popularity": 95.751,
+            "poster_path": "/7g0EyKsIaYjYw3gCIBKMHHE0Kcu.jpg",
+            "vote_average": 7.6,
+            "vote_count": 934
+        },
+        {
+            "backdrop_path": "/dDoO1nKuBUB3rjrR54grbQ5CvEG.jpg",
+            "first_air_date": "1983-01-17",
+            "genre_ids": [
+                99,
+                10763,
+                10767
+            ],
+            "id": 4384,
+            "name": "Frontline",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Frontline",
+            "overview": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex human experience. Frontline's goal is to extend the impact of the documentary beyond its initial broadcast by serving as a catalyst for change.",
+            "popularity": 92.455,
+            "poster_path": "/rEsUftFdD7PjkWmCrzqWoUYHbXv.jpg",
+            "vote_average": 7.8,
+            "vote_count": 33
+        },
+        {
+            "backdrop_path": "/lUseDQFZoge6GR1F6dGtaARiF7M.jpg",
+            "first_air_date": "2020-10-26",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 99489,
+            "name": "The Penthouse",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "펜트하우스",
+            "overview": "A woman puts everything on the line to achieve her goal of being able to move into a luxury penthouse in the Gangnam District. In the process, she gradually finds herself turning into a monster.",
+            "popularity": 43.586,
+            "poster_path": "/33WzWRlmxjpW00zOGin6qrx6iqU.jpg",
+            "vote_average": 8.5,
+            "vote_count": 203
+        },
+        {
+            "backdrop_path": "/bNYJxbtslqHdbNfIT9XXjbwEZuX.jpg",
+            "first_air_date": "1984-01-04",
+            "genre_ids": [
+                35
+            ],
+            "id": 162,
+            "name": "Night Court",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Night Court",
+            "overview": "Night Court is an American television situation comedy that aired on NBC from January 4, 1984 to May 31, 1992. The setting was the night shift of a Manhattan court, presided over by the young, unorthodox Judge Harold T. \"Harry\" Stone. It was created by comedy writer Reinhold Weege, who had previously worked on Barney Miller in the 1970s and early 1980s.",
+            "popularity": 42.655,
+            "poster_path": "/bpEVtr4NCkbmTdponemKSjt9POc.jpg",
+            "vote_average": 7.4,
+            "vote_count": 98
+        },
+        {
+            "backdrop_path": "/jG0dHJJILuPs48Xv6d47Us4jUZg.jpg",
+            "first_air_date": "1986-12-16",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 40758,
+            "name": "Großstadtrevier",
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "Großstadtrevier",
+            "overview": "Follow the everyday work of a fictional police station on the Kiez of Hamburg.",
+            "popularity": 40.743,
+            "poster_path": "/fVsntDN3mQAuaDFGiJTKar7fRcu.jpg",
+            "vote_average": 7.4,
+            "vote_count": 5
+        },
+        {
+            "backdrop_path": "/iWSJuCEyNX6rnd8fCfoI5QvIfor.jpg",
+            "first_air_date": "1966-09-09",
+            "genre_ids": [
+                10759,
+                80,
+                10765
+            ],
+            "id": 31867,
+            "name": "The Green Hornet",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Green Hornet",
+            "overview": "The Green Hornet is a television series on the ABC US television network that aired for the 1966–1967 TV season starring Van Williams as the Green Hornet/Britt Reid and Bruce Lee as Kato.",
+            "popularity": 37.363,
+            "poster_path": "/2wDWTFqUxo9h3aRERXTI9TDbfxG.jpg",
+            "vote_average": 7.5,
+            "vote_count": 37
+        },
+        {
+            "backdrop_path": "/kdFJW01rAJV4qN7ArkJ4l3Ll9T3.jpg",
+            "first_air_date": "2010-09-20",
+            "genre_ids": [
+                35
+            ],
+            "id": 32709,
+            "name": "Mike & Molly",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Mike & Molly",
+            "overview": "A comedy about a working class Chicago couple who find love at an Overeaters Anonymous meeting.",
+            "popularity": 32.36,
+            "poster_path": "/5TeRoql7yzyeFWMEA0aiEmd21HJ.jpg",
+            "vote_average": 6.8,
+            "vote_count": 209
+        }
+    ],
+    "total_pages": 8,
+    "total_results": 154
+}
