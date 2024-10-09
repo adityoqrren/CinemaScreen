@@ -3,6 +3,7 @@ package com.myapp.cinemascreen
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.activity.viewModels
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.RowScope
 import androidx.compose.foundation.layout.WindowInsets
@@ -24,38 +25,54 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.core.view.WindowCompat
+import androidx.lifecycle.lifecycleScope
 import androidx.navigation.NavDestination
 import androidx.navigation.NavDestination.Companion.hierarchy
 import androidx.navigation.NavGraph.Companion.findStartDestination
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
+import com.myapp.cinemascreen.ui.screens.LoginViewModel
 import com.myapp.cinemascreen.ui.theme.CinemaScreenTheme
 import dagger.hilt.android.AndroidEntryPoint
+import kotlinx.coroutines.launch
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
+    private val viewModel: LoginViewModel by viewModels()
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
         WindowCompat.setDecorFitsSystemWindows(window, false)
 
-        setContent {
-            CinemaScreenTheme {
-                // A surface container using the 'background' color from the theme
-                CinemaScreenApp()
+        lifecycleScope.launch {
+            viewModel.checkLogin()
+
+            val isLoggedIn = viewModel.isLoginValue()
+            val initialRoute = if(isLoggedIn) CinemaScreenDestinations.Main.route else CinemaScreenDestinations.LoginScreen.route
+
+            setContent {
+                CinemaScreenTheme {
+//                    val isLogin by viewModel.isLogin.collectAsStateWithLifecycle()
+//                    val initialRoute = if(isLogin) CinemaScreenDestinations.Main.route else CinemaScreenDestinations.LoginScreen.route
+                    // A surface container using the 'background' color from the theme
+                    CinemaScreenApp(initialRoute = initialRoute)
+                }
             }
+
         }
+
     }
 
 }
 
 
 @Composable
-fun CinemaScreenApp() {
+fun CinemaScreenApp(initialRoute: String) {
     val mainNavController = rememberNavController()
 
-    MainNavGraph(navController = mainNavController)
+    MainNavGraph(navController = mainNavController, initialScreenRoute = initialRoute)
 }
 
 

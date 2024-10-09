@@ -8,12 +8,25 @@ import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
+import com.myapp.cinemascreen.ui.screens.DetailItemScreen
+import com.myapp.cinemascreen.ui.screens.DetailItemTVScreen
+import com.myapp.cinemascreen.ui.screens.LoginScreen
+import com.myapp.cinemascreen.ui.screens.ProfileScreen
+import com.myapp.cinemascreen.ui.screens.RegisterScreen
+import com.myapp.cinemascreen.utils.MediaType
 
 @Composable
-fun MainNavGraph(navController: NavHostController) {
+fun MainNavGraph(navController: NavHostController, initialScreenRoute: String) {
+    //TODO:call viewmodel here to handle login logic
+
+//    val viewModel : LoginViewModel = hiltViewModel()
+//    val isLogin by viewModel.isLogin.collectAsStateWithLifecycle()
+//
+//    val initialRoute = if(isLogin) CinemaScreenDestinations.Main.route else CinemaScreenDestinations.LoginScreen.route
+
     NavHost(
         navController = navController,
-        startDestination = CinemaScreenDestinations.LoginScreen.route
+        startDestination = initialScreenRoute
     ) {
         composable(
             route = CinemaScreenDestinations.LoginScreen.route,
@@ -37,8 +50,7 @@ fun MainNavGraph(navController: NavHostController) {
         }
         composable(route = CinemaScreenDestinations.RegisterScreen.route) {
             RegisterScreen(
-                navigateToLogin = { navController.navigate(CinemaScreenDestinations.LoginScreen.route) },
-                popAfterSuccess = { navController.popBackStack() })
+                navigateToLogin = { navController.navigate(CinemaScreenDestinations.LoginScreen.route) },)
         }
         composable(route = CinemaScreenDestinations.Main.route) {
             MainScreen(toDetailScreen = { id, mediaType -> navController.navigate("detailItemScreen/$id/$mediaType") },
@@ -65,21 +77,25 @@ fun MainNavGraph(navController: NavHostController) {
                 ?.let {
                     backStackEntry.arguments?.getString("mediatype")
                         ?.let { it1 ->
-                            DetailItemScreen(
-                                id = it,
-                                mediaType = it1,
-                                backToBefore = { navController.popBackStack() })
+                            if(it1== MediaType.Movie) {
+                                DetailItemScreen(
+                                    id = it,
+                                    mediaType = it1,
+                                    backToBefore = { navController.navigateUp() })
+                            }else{
+                                DetailItemTVScreen(
+                                    id = it,
+                                    backToBefore = { navController.navigateUp() })
+                            }
                         }
                 }
         }
         composable(route = CinemaScreenDestinations.ProfileScreen.route) {
             ProfileScreen(
-                backToBefore = { navController.popBackStack() },
+                backToBefore = { navController.navigateUp() },
                 logoutToLoginScreen = {
                     navController.navigate(CinemaScreenDestinations.LoginScreen.route) {
-                        popUpTo(CinemaScreenDestinations.ProfileScreen.route) {
-                            inclusive = true
-                        }
+                        popUpTo(navController.graph.id)
                     }
                 }
             )

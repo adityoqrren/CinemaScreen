@@ -4,6 +4,9 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
+import com.myapp.cinemascreen.ui.screens.FavoritesScreen
+import com.myapp.cinemascreen.ui.screens.FindScreen
+import com.myapp.cinemascreen.ui.screens.HomeScreen
 
 @Composable
 fun BottomNavGraph(
@@ -18,10 +21,10 @@ fun BottomNavGraph(
            HomeScreen(toDetailScreen = toDetailScreen, toProfileScreen = toProfileScreen)
         }
         composable(route = BottomBarDestinations.Favorites.route){
-            FavoritesScreen(toDetailScreen = toDetailScreen)
+            FavoritesScreen(toDetailScreen = toDetailScreen, toProfileScreen = toProfileScreen)
         }
         composable(route = BottomBarDestinations.Find.route){
-            FindScreen(onNavigateUp = {navController.navigateUp()})
+            FindScreen(onNavigateUp = {navController.navigateUp()}, toDetailScreen = toDetailScreen, toProfileScreen = toProfileScreen)
         }
     }
 }
