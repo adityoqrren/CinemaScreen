@@ -59,6 +59,7 @@ import com.myapp.cinemascreen.fontFamily
 import kotlinx.coroutines.delay
 import kotlin.math.roundToInt
 
+//Test new feature
 @Composable
 fun LoginScreen(
     navigateToHome: () -> Unit,
