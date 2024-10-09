@@ -60,6 +60,7 @@ import kotlinx.coroutines.delay
 import kotlin.math.roundToInt
 
 //Test new feature
+//Changes 2
 @Composable
 fun LoginScreen(
     navigateToHome: () -> Unit,
