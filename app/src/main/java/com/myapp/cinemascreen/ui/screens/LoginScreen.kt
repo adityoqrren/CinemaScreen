@@ -234,7 +234,6 @@ fun LoginScreen(
                                     isPasswordError = true
                                 }
                                 if (!isUsernameError && !isPasswordError) {
-                                    //TODO: write logic to connect to firebase authentication
                                     //navigateToHome()
                                     viewModel.login(email = valueOfUsername, password = valueOfPassword)
                                 }
